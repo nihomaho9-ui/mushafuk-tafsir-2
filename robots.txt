@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://t2.mushafuk.online/sitemap.xml
+Sitemap: https://t2.mushafuk.online/sitemap-faq.xml
