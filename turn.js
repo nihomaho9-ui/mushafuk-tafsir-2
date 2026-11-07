@@ -1,5 +1,13 @@
 (function () {
   var s = document.currentScript;
+  (function () {
+    var base = (s && s.src) ? s.src.replace(/turn\.js[^/]*$/, "") : "/";
+    if (!document.querySelector("script[src*='read-theme.js']")) {
+      var th = document.createElement("script");
+      th.src = base + "read-theme.js?v=1";
+      document.head.appendChild(th);
+    }
+  })();
   var next = s.getAttribute("data-next") || "";
   var prev = s.getAttribute("data-prev") || "";
   try { sessionStorage.removeItem("qm.tfdir"); } catch (e) {}
