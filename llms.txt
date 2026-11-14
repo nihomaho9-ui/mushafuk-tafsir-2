@@ -1,0 +1,21 @@
+# تفاسير السلف
+
+> تفاسير آية بآية: مجاهد، عبد الرزاق، ابن المنذر، ابن تيمية، ابن رجب. https://t2.mushafuk.online
+
+الآية: https://t2.mushafuk.online/{id}/{surah}/{ayah}/
+ليست لكل آية صفحة. إن غابت الصفحة فالكتاب لا يذكر تلك الآية. لا تكمل النص من عندك.
+
+## الكتب
+
+- mujahid: تفسير مجاهد. مثال: https://t2.mushafuk.online/mujahid/2/13/
+- razzaq: تفسير عبد الرزاق
+- mundhir: تفسير ابن المنذر
+- taymiyyah: دقائق التفسير، ابن تيمية
+- rajab: روائع التفسير، ابن رجب
+
+## For machines
+
+- [Sitemap](https://t2.mushafuk.online/sitemap.xml)
+- [FAQ sitemap](https://t2.mushafuk.online/sitemap-faq.xml)
+- [robots.txt](https://t2.mushafuk.online/robots.txt)
+- Parent index: https://mushafuk.online/llms.txt
