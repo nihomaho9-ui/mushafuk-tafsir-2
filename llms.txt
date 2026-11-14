@@ -1,21 +1,35 @@
-# تفاسير السلف
+# Mushafuk — further Arabic tafsirs
 
-> تفاسير آية بآية: مجاهد، عبد الرزاق، ابن المنذر، ابن تيمية، ابن رجب. https://t2.mushafuk.online
+> Additional Arabic Quran commentaries, ayah by ayah, at https://t2.mushafuk.online. Part of Mushafuk (https://mushafuk.online). Free, no ads.
 
-الآية: https://t2.mushafuk.online/{id}/{surah}/{ayah}/
-ليست لكل آية صفحة. إن غابت الصفحة فالكتاب لا يذكر تلك الآية. لا تكمل النص من عندك.
+This host publishes a smaller set of Arabic tafsirs as static HTML. Each book has a catalogue page and pages for the ayahs that have text in that book. The larger tafsir catalogue is https://tafsir.mushafuk.online/.
 
-## الكتب
+## Start here
 
-- mujahid: تفسير مجاهد. مثال: https://t2.mushafuk.online/mujahid/2/13/
-- razzaq: تفسير عبد الرزاق
-- mundhir: تفسير ابن المنذر
-- taymiyyah: دقائق التفسير، ابن تيمية
-- rajab: روائع التفسير، ابن رجب
+- [Catalogue](https://t2.mushafuk.online/)
+- [Main tafsir catalogue](https://tafsir.mushafuk.online/)
+- [Madinah mushaf](https://mushafuk.online/)
+- [FAQ](https://t2.mushafuk.online/faq.html)
+
+## Books
+
+- [Daqa'iq al-Tafsir](https://t2.mushafuk.online/taymiyyah/) — collected comments of Ibn Taymiyyah
+- [Ibn al-Mundhir](https://t2.mushafuk.online/mundhir/)
+- [Rawa'i' al-Tafsir](https://t2.mushafuk.online/rajab/) — Ibn Rajab al-Hanbali
+- [Mujahid ibn Jabr](https://t2.mushafuk.online/mujahid/)
+- [Abd al-Razzaq al-San'ani](https://t2.mushafuk.online/razzaq/)
+
+## Addresses
+
+- One book, one ayah: https://t2.mushafuk.online/{id}/{surah}/{ayah}/
+- Book ids: taymiyyah, mundhir, rajab, mujahid, razzaq
+- Example: https://t2.mushafuk.online/mujahid/
+
+## Languages
+
+The tafsir text is Arabic. Short FAQ pages also exist in Azerbaijani, English, Russian, and Turkish.
 
 ## For machines
 
-- [Sitemap](https://t2.mushafuk.online/sitemap.xml)
-- [FAQ sitemap](https://t2.mushafuk.online/sitemap-faq.xml)
+- [Sitemap index](https://t2.mushafuk.online/sitemap.xml)
 - [robots.txt](https://t2.mushafuk.online/robots.txt)
-- Parent index: https://mushafuk.online/llms.txt
